@@ -6,6 +6,8 @@
 	import { derived, get } from 'svelte/store';
 	import { gridStore } from './store.js'; // path to your store file
 	import { onMount } from 'svelte';
+	import sample_data from './data.json'
+
 
 	//  Code to render the history to html
 
@@ -254,7 +256,7 @@
 		<Grid squares={data} {systemColorMap} {width} />
 	{/each}
 {:else}
-	<p>No data available.</p>
+	<Grid squares={sample_data} {systemColorMap} {width} />
 {/if}
 
 <h1>todos</h1>
