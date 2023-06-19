@@ -250,7 +250,7 @@
 <button on:click={() => (predictArray = [])}>Empty Array</button>
 
 <h1>Predictions</h1>
-
+<p> Each row is a predicted (chronological) sequence of events given the patient history above... </p>
 {#if predictArray.length > 0}
 	{#each predictArray as data, index (index)}
 		<Grid squares={data} {systemColorMap} {width} />
@@ -261,7 +261,7 @@
 
 <h1>todos</h1>
 <ul>
-	<li>Rank unique codes by frequency in list -> sync with grids</li>
+	<li>Rank unique codes by frequency in list -> make mouse hover over each item in list sync with grids highlighting relevant squares</li>
 	<li>
 		add history/arguments above each prediction (in case history/arguments can be changed on the
 		fly)
