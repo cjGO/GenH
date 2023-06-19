@@ -1,0 +1,1726 @@
+{
+  "predictions": [
+    [
+      {
+        "system": "CPT4",
+        "code": "97001",
+        "display": "Physical therapy evaluation"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "hydromorphone",
+        "display": "hydromorphone"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "T78",
+        "display": "Adverse effects, not elsewhere classified"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "I42",
+        "display": "Cardiomyopathy"
+      },
+      {
+        "system": "age",
+        "code": "84",
+        "display": "84"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "G47.33",
+        "display": "Obstructive sleep apnea (adult) (pediatric)"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "G47.33",
+        "display": "Obstructive sleep apnea (adult) (pediatric)"
+      },
+      {
+        "system": "CPT4",
+        "code": "93284",
+        "display": "Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other qualified health care "
+      },
+      {
+        "system": "CPT4",
+        "code": "93284",
+        "display": "Programming device evaluation (in person) with iterative adjustment of the implantable device to test the function of the device and select optimal permanent programmed values with analysis, review and report by a physician or other qualified health care "
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "G47.33",
+        "display": "Obstructive sleep apnea (adult) (pediatric)"
+      },
+      {
+        "system": "age",
+        "code": "83",
+        "display": "83"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "G47.33",
+        "display": "Obstructive sleep apnea (adult) (pediatric)"
+      },
+      {
+        "system": "HCPCS",
+        "code": "A7031",
+        "display": "Face mask interface, replacement for full face mask, each"
+      },
+      {
+        "system": "HCPCS",
+        "code": "A7031",
+        "display": "Face mask interface, replacement for full face mask, each"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "G47.33",
+        "display": "Obstructive sleep apnea (adult) (pediatric)"
+      },
+      {
+        "system": "age",
+        "code": "84",
+        "display": "84"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "G47.33",
+        "display": "Obstructive sleep apnea (adult) (pediatric)"
+      },
+      {
+        "system": "HCPCS",
+        "code": "E0470",
+        "display": "Respiratory assist device, bi-level pressure capability, without backup rate feature, used with noninvasive interface, e.g., nasal or facial mask (intermittent assist device with continuous positive airway pressure device)"
+      },
+      {
+        "system": "HCPCS",
+        "code": "E0470",
+        "display": "Respiratory assist device, bi-level pressure capability, without backup rate feature, used with noninvasive interface, e.g., nasal or facial mask (intermittent assist device with continuous positive airway pressure device)"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "31",
+        "display": "31"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "G47.33",
+        "display": "Obstructive sleep apnea (adult) (pediatric)"
+      }
+    ],
+    [
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "225",
+        "display": "225"
+      },
+      {
+        "system": "CPT4",
+        "code": "90945",
+        "display": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "M99",
+        "display": "Biomechanical lesions, not elsewhere classified"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "E03",
+        "display": "Other hypothyroidism"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "D62",
+        "display": "Acute posthemorrhagic anemia"
+      },
+      {
+        "system": "HCPCS",
+        "code": "J7070",
+        "display": "Infusion, d5w, 1000 cc"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "M46",
+        "display": "Other inflammatory spondylopathies"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "I10",
+        "display": "Essential (primary) hypertension"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z47",
+        "display": "Orthopedic aftercare"
+      },
+      {
+        "system": "CPT4",
+        "code": "99212",
+        "display": "Office or other outpatient visit for the evaluation and management of an established patient, which requires a medically appropriate history and/or examination and straightforward medical decision making. When using time for code selection, 10-19 minutes "
+      },
+      {
+        "system": "CPT4",
+        "code": "86830",
+        "display": "Antibody to human leukocyte antigens (HLA), solid phase assays (eg, microspheres or beads, ELISA, Flow cytometry); antibody identification by qualitative panel using complete HLA phenotypes, HLA Class I"
+      },
+      {
+        "system": "HCPCS",
+        "code": "G0010",
+        "display": "Administration of hepatitis b vaccine"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "warfarin",
+        "display": "warfarin"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "N62",
+        "display": "Hypertrophy of breast"
+      },
+      {
+        "system": "CPT4",
+        "code": "78306",
+        "display": "Bone and/or joint imaging; whole body"
+      },
+      {
+        "system": "HCPCS",
+        "code": "A9503",
+        "display": "Technetium tc-99m medronate, diagnostic, per study dose, up to 30 millicuries"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "A41.9",
+        "display": "Sepsis, unspecified organism"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z20.818",
+        "display": "Contact with and (suspected) exposure to other bacterial communicable diseases"
+      },
+      {
+        "system": "CPT4",
+        "code": "83605",
+        "display": "Lactate (lactic acid)"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "lidocaine 0.05 mg/mg",
+        "display": "lidocaine 0.05 mg/mg"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "R50.9",
+        "display": "Fever, unspecified"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "E11.9",
+        "display": "Type 2 diabetes mellitus without complications"
+      },
+      {
+        "system": "CPT4",
+        "code": "62318",
+        "display": "Injection(s), including indwelling catheter placement, continuous infusion or intermittent bolus, of diagnostic or therapeutic substance(s) (including anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, includ"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "acetaminophen codeine 300 phosphate",
+        "display": "acetaminophen codeine 300 phosphate"
+      }
+    ],
+    [
+      {
+        "system": "HCPCS",
+        "code": "J3480",
+        "display": "Injection, potassium chloride, per 2 meq"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q25",
+        "display": "Congenital malformations of great arteries"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "prilocaine",
+        "display": "prilocaine"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z23",
+        "display": "Encounter for immunization"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z33.2",
+        "display": "Encounter for elective termination of pregnancy"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "0",
+        "display": "0"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q25.6",
+        "display": "Stenosis of pulmonary artery"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q25.6",
+        "display": "Stenosis of pulmonary artery"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q25.6",
+        "display": "Stenosis of pulmonary artery"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "P81.9",
+        "display": "Disturbance of temperature regulation of newborn, unspecified"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "P59.9",
+        "display": "Neonatal jaundice, unspecified"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q25.6",
+        "display": "Stenosis of pulmonary artery"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q25.6",
+        "display": "Stenosis of pulmonary artery"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "P81.9",
+        "display": "Disturbance of temperature regulation of newborn, unspecified"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "P59.9",
+        "display": "Neonatal jaundice, unspecified"
+      },
+      {
+        "system": "CPT4",
+        "code": "99472",
+        "display": "Subsequent inpatient pediatric critical care, per day, for the evaluation and management of a critically ill infant or young child, 29 days through 24 months of age"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "0",
+        "display": "0"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "R01.1",
+        "display": "Cardiac murmur, unspecified"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q25.6",
+        "display": "Stenosis of pulmonary artery"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q25.6",
+        "display": "Stenosis of pulmonary artery"
+      }
+    ],
+    [
+      {
+        "system": "CPT4",
+        "code": "77052",
+        "display": "Computer-aided detection (computer algorithm analysis of digital image data for lesion detection) with further review for interpretation, with or without digitization of film radiographic images; screening mammography (List separately in addition to code "
+      },
+      {
+        "system": "HCPCS",
+        "code": "G8952",
+        "display": "Pre-hypertensive or hypertensive blood pressure reading documented, indicated follow-up not documented, reason not given"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F31",
+        "display": "Bipolar disorder"
+      },
+      {
+        "system": "age",
+        "code": "17",
+        "display": "17"
+      },
+      {
+        "system": "CPT4",
+        "code": "93321",
+        "display": "Doppler echocardiography, pulsed wave and/or continuous wave with spectral display (List separately in addition to codes for echocardiographic imaging); follow-up or limited study (List separately in addition to codes for echocardiographic imaging)"
+      },
+      {
+        "system": "CPT4",
+        "code": "93293",
+        "display": "Transtelephonic rhythm strip pacemaker evaluation(s) single, dual, or multiple lead pacemaker system, includes recording with and without magnet application with analysis, review and report(s) by a physician or other qualified health care professional, up"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F31.9",
+        "display": "Bipolar disorder, unspecified"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "17",
+        "display": "17"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F31.9",
+        "display": "Bipolar disorder, unspecified"
+      },
+      {
+        "system": "CPT4",
+        "code": "99601",
+        "display": "Home infusion/specialty drug administration, per visit (up to 2 hours)"
+      },
+      {
+        "system": "CPT4",
+        "code": "99601",
+        "display": "Home infusion/specialty drug administration, per visit (up to 2 hours)"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "17",
+        "display": "17"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F31.9",
+        "display": "Bipolar disorder, unspecified"
+      },
+      {
+        "system": "CPT4",
+        "code": "99601",
+        "display": "Home infusion/specialty drug administration, per visit (up to 2 hours)"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "17",
+        "display": "17"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F31.9",
+        "display": "Bipolar disorder, unspecified"
+      },
+      {
+        "system": "CPT4",
+        "code": "99601",
+        "display": "Home infusion/specialty drug administration, per visit (up to 2 hours)"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "17",
+        "display": "17"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F31.9",
+        "display": "Bipolar disorder, unspecified"
+      },
+      {
+        "system": "CPT4",
+        "code": "85004",
+        "display": "Blood count; automated differential WBC count"
+      },
+      {
+        "system": "CPT4",
+        "code": "85048",
+        "display": "Blood count; leukocyte (WBC), automated"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "17",
+        "display": "17"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F31.9",
+        "display": "Bipolar disorder, unspecified"
+      },
+      {
+        "system": "CPT4",
+        "code": "99601",
+        "display": "Home infusion/specialty drug administration, per visit (up to 2 hours)"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "17",
+        "display": "17"
+      }
+    ],
+    [
+      {
+        "system": "CPT4",
+        "code": "90945",
+        "display": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "ascorbate",
+        "display": "ascorbate"
+      },
+      {
+        "system": "CPT4",
+        "code": "90945",
+        "display": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "nicotine",
+        "display": "nicotine"
+      },
+      {
+        "system": "CPT4",
+        "code": "99469",
+        "display": "Subsequent inpatient neonatal critical care, per day, for the evaluation and management of a critically ill neonate, 28 days of age or younger"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "E10",
+        "display": "Type 1 diabetes mellitus"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z98",
+        "display": "Other postprocedural states"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "I20",
+        "display": "Angina pectoris"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "9",
+        "display": "9"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "E10.65",
+        "display": "Type 1 diabetes mellitus with hyperglycemia"
+      },
+      {
+        "system": "CPT4",
+        "code": "99283",
+        "display": "Emergency department visit for the evaluation and management of a patient, which requires these 3 key components: An expanded problem focused history; An expanded problem focused examination; and Medical decision making of moderate complexity. Counseling "
+      },
+      {
+        "system": "CPT4",
+        "code": "99283",
+        "display": "Emergency department visit for the evaluation and management of a patient, which requires these 3 key components: An expanded problem focused history; An expanded problem focused examination; and Medical decision making of moderate complexity. Counseling "
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "9",
+        "display": "9"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "famotidine 20 mg",
+        "display": "famotidine 20 mg"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "69",
+        "display": "69"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F31.81",
+        "display": "Bipolar II disorder"
+      },
+      {
+        "system": "HCPCS",
+        "code": "H0035",
+        "display": "Mental health partial hospitalization, treatment, less than 24 hours"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "69",
+        "display": "69"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F31.81",
+        "display": "Bipolar II disorder"
+      },
+      {
+        "system": "HCPCS",
+        "code": "H0035",
+        "display": "Mental health partial hospitalization, treatment, less than 24 hours"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "69",
+        "display": "69"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "E10.65",
+        "display": "Type 1 diabetes mellitus with hyperglycemia"
+      },
+      {
+        "system": "CPT4",
+        "code": "90832",
+        "display": "Psychotherapy, 30 minutes with patient"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "70",
+        "display": "70"
+      }
+    ],
+    [
+      {
+        "system": "age",
+        "code": "14",
+        "display": "14"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "L11",
+        "display": "Other acantholytic disorders"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z12",
+        "display": "Encounter for screening for malignant neoplasms"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "R03",
+        "display": "Abnormal blood-pressure reading, without diagnosis"
+      },
+      {
+        "system": "CPT4",
+        "code": "74000",
+        "display": "Radiologic examination, abdomen; single anteroposterior view"
+      },
+      {
+        "system": "timegap",
+        "code": "03-06-month",
+        "display": "03-06-month"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "efinaconazole",
+        "display": "efinaconazole"
+      },
+      {
+        "system": "ICD10PCS",
+        "code": "9",
+        "display": "Chiropractic (Procedure)"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "mg/ml efinaconazole propionate",
+        "display": "mg/ml efinaconazole propionate"
+      },
+      {
+        "system": "CPT4",
+        "code": "88350",
+        "display": "Immunofluorescence, per specimen; each additional single antibody stain procedure (List separately in addition to code for primary procedure)"
+      },
+      {
+        "system": "CPT4",
+        "code": "88304",
+        "display": "Level III - Surgical pathology, gross and microscopic examination Abortion, induced Abscess Aneurysm - arterial/ventricular Anus, tag Appendix, other than incidental Artery, atheromatous plaque Bartholin's gland cyst Bone fragment(s), other than pathologi"
+      },
+      {
+        "system": "CPT4",
+        "code": "88312",
+        "display": "Special stain including interpretation and report; Group I for microorganisms (eg, acid fast, methenamine silver)"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "14",
+        "display": "14"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z00.129",
+        "display": "Encounter for routine child health examination without abnormal findings"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z23",
+        "display": "Encounter for immunization"
+      },
+      {
+        "system": "CPT4",
+        "code": "97002",
+        "display": "Physical therapy re-evaluation"
+      },
+      {
+        "system": "CPT4",
+        "code": "96110",
+        "display": "Developmental screening (eg, developmental milestone survey, speech and language delay screen), with scoring and documentation, per standardized instrument"
+      },
+      {
+        "system": "HCPCS",
+        "code": "G8983",
+        "display": "Changing & maintaining body position functional limitation, discharge status, at discharge from therapy or to end reporting"
+      },
+      {
+        "system": "HCPCS",
+        "code": "G8982",
+        "display": "Changing & maintaining body position functional limitation, projected goal status, at therapy episode outset, at reporting intervals, and at discharge or to end reporting"
+      },
+      {
+        "system": "age",
+        "code": "15",
+        "display": "15"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "efinaconazole 100 mg/ml [jublia]",
+        "display": "efinaconazole 100 mg/ml [jublia]"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "efinaconazole 100 mg/ml [jublia]",
+        "display": "efinaconazole 100 mg/ml [jublia]"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "efinaconazole 100 mg/ml [jublia]",
+        "display": "efinaconazole 100 mg/ml [jublia]"
+      },
+      {
+        "system": "timegap",
+        "code": "03-06-month",
+        "display": "03-06-month"
+      },
+      {
+        "system": "gender",
+        "code": "female",
+        "display": "female"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "efinaconazole",
+        "display": "efinaconazole"
+      }
+    ],
+    [
+      {
+        "system": "HCPCS",
+        "code": "G8433",
+        "display": "Screening for depression not completed, documented reason"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "[bunavail]",
+        "display": "[bunavail]"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "CPT4",
+        "code": "90945",
+        "display": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "atenolol",
+        "display": "atenolol"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q25",
+        "display": "Congenital malformations of great arteries"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z3A",
+        "display": "Weeks of gestation"
+      },
+      {
+        "system": "HCPCS",
+        "code": "A7034",
+        "display": "Nasal interface (mask or cannula type) used with positive airway pressure device, with or without head strap"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "HIPPS",
+        "code": "3CGKT",
+        "display": "Late Episode, 0-13 therapies,Clinical Severity Level 3,  Functional Severity Level 2,Service Severity Level 1,Supply Severity Level 2, supplies provided"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "calcium 200",
+        "display": "calcium 200"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q42",
+        "display": "Congenital absence, atresia and stenosis of large intestine"
+      },
+      {
+        "system": "CPT4",
+        "code": "90945",
+        "display": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z45.1",
+        "display": "Encounter for adjustment and management of infusion pump"
+      },
+      {
+        "system": "CPT4",
+        "code": "73080",
+        "display": "Radiologic examination, elbow; complete, minimum of 3 views"
+      },
+      {
+        "system": "CPT4",
+        "code": "72081",
+        "display": "Radiologic examination, spine, entire thoracic and lumbar, including skull, cervical and sacral spine if performed (eg, scoliosis evaluation); one view"
+      },
+      {
+        "system": "CPT4",
+        "code": "74176",
+        "display": "Computed tomography, abdomen and pelvis; without contrast material"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "M25.872",
+        "display": "Other specified joint disorders, left ankle and foot"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "oxide",
+        "display": "oxide"
+      },
+      {
+        "system": "HIPPS",
+        "code": "3JC11",
+        "display": "Late - Community, MMTA - GI/GU - High, Comorbidity = 0"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "[nifedical]",
+        "display": "[nifedical]"
+      },
+      {
+        "system": "CPT4",
+        "code": "90945",
+        "display": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "calcium 200 citrate 120 950 mg mg",
+        "display": "calcium 200 citrate 120 950 mg mg"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "calcium 200 citrate 120 950 mg",
+        "display": "calcium 200 citrate 120 950 mg"
+      }
+    ],
+    [
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "1.1",
+        "display": "1.1"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "HCPCS",
+        "code": "G0379",
+        "display": "Direct admission of patient for hospital observation care"
+      },
+      {
+        "system": "CPT4",
+        "code": "99238",
+        "display": "Hospital discharge day management; 30 minutes or less"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "apixaban",
+        "display": "apixaban"
+      },
+      {
+        "system": "age",
+        "code": "13",
+        "display": "13"
+      },
+      {
+        "system": "HCPCS",
+        "code": "J0744",
+        "display": "Injection, ciprofloxacin for intravenous infusion, 200 mg"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "triamcinolone acetonide 1 mg/ml",
+        "display": "triamcinolone acetonide 1 mg/ml"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "13",
+        "display": "13"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "S89.9",
+        "display": "Unspecified injury of lower leg"
+      },
+      {
+        "system": "CPT4",
+        "code": "99213",
+        "display": "Office or other outpatient visit for the evaluation and management of an established patient, which requires a medically appropriate history and/or examination and low level of medical decision making. When using time for code selection, 20-29 minutes of "
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "13",
+        "display": "13"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "triamcinolone acetonide 1 mg/ml",
+        "display": "triamcinolone acetonide 1 mg/ml"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "13",
+        "display": "13"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "triamcinolone acetonide 1 mg/ml",
+        "display": "triamcinolone acetonide 1 mg/ml"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "13",
+        "display": "13"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z00.129",
+        "display": "Encounter for routine child health examination without abnormal findings"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z23",
+        "display": "Encounter for immunization"
+      },
+      {
+        "system": "CPT4",
+        "code": "80061",
+        "display": "Lipid panel This panel must include the following: Cholesterol, serum, total (82465) Lipoprotein, direct measurement, high density cholesterol (HDL cholesterol) (83718) Triglycerides (84478)"
+      },
+      {
+        "system": "CPT4",
+        "code": "82947",
+        "display": "Glucose; quantitative, blood (except reagent strip)"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      }
+    ],
+    [
+      {
+        "system": "CPT4",
+        "code": "77336",
+        "display": "Continuing medical physics consultation, including assessment of treatment parameters, quality assurance of dose delivery, and review of patient treatment documentation in support of the radiation oncologist, reported per week of therapy"
+      },
+      {
+        "system": "CPT4",
+        "code": "97001",
+        "display": "Physical therapy evaluation"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "8",
+        "display": "8"
+      },
+      {
+        "system": "CPT4",
+        "code": "87086",
+        "display": "Culture, bacterial; quantitative colony count, urine"
+      },
+      {
+        "system": "CPT4",
+        "code": "97001",
+        "display": "Physical therapy evaluation"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "age",
+        "code": "9",
+        "display": "9"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "S81.801A",
+        "display": "Unspecified open wound, right lower leg, initial encounter"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "[dermaphor]",
+        "display": "[dermaphor]"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "dinitrate 25 mg",
+        "display": "dinitrate 25 mg"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "dinitrate 25 mg",
+        "display": "dinitrate 25 mg"
+      },
+      {
+        "system": "CPT4",
+        "code": "86692",
+        "display": "Antibody; hepatitis, delta agent"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "X08",
+        "display": "Exposure to other specified smoke, fire and flames"
+      },
+      {
+        "system": "age",
+        "code": "73",
+        "display": "73"
+      },
+      {
+        "system": "gender",
+        "code": "male",
+        "display": "male"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z13.89",
+        "display": "Encounter for screening for other disorder"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z00.00",
+        "display": "Encounter for general adult medical examination without abnormal findings"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z23",
+        "display": "Encounter for immunization"
+      },
+      {
+        "system": "HCPCS",
+        "code": "P9017",
+        "display": "Fresh frozen plasma (single donor), frozen within 8 hours of collection, each unit"
+      },
+      {
+        "system": "CPT4",
+        "code": "36430",
+        "display": "Transfusion, blood or blood components"
+      },
+      {
+        "system": "CPT4",
+        "code": "90670",
+        "display": "Pneumococcal conjugate vaccine, 13 valent (PCV13), for intramuscular use"
+      },
+      {
+        "system": "CPT4",
+        "code": "90681",
+        "display": "Rotavirus vaccine, human, attenuated (RV1), 2 dose schedule, live, for oral use"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "pyrantel 144 hydrochloride mg/ml",
+        "display": "pyrantel 144 hydrochloride mg/ml"
+      },
+      {
+        "system": "CPT4",
+        "code": "64718",
+        "display": "Neuroplasty and/or transposition; ulnar nerve at elbow"
+      },
+      {
+        "system": "timegap",
+        "code": "12-99-month",
+        "display": "12-99-month"
+      },
+      {
+        "system": "age",
+        "code": "78",
+        "display": "78"
+      }
+    ],
+    [
+      {
+        "system": "ICD10CM",
+        "code": "Q25",
+        "display": "Congenital malformations of great arteries"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "M25",
+        "display": "Other joint disorder, not elsewhere classified"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "CPT4",
+        "code": "82465",
+        "display": "Cholesterol, serum or whole blood, total"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "R55",
+        "display": "Syncope and collapse"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "levothyroxine",
+        "display": "levothyroxine"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "E11",
+        "display": "Type 2 diabetes mellitus"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "R55",
+        "display": "Syncope and collapse"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "doxycycline",
+        "display": "doxycycline"
+      },
+      {
+        "system": "HIPPS",
+        "code": "3AFKS",
+        "display": "Late Episode, 0-13 therapies,Clinical Severity Level 1, Functional Severity Level 1,Service Severity Level 1,Supply Severity Level 1, supplies provided"
+      },
+      {
+        "system": "CPT4",
+        "code": "99214",
+        "display": "Office or other outpatient visit for the evaluation and management of an established patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making. When using time for code selection, 30-39 minute"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F89",
+        "display": "Unspecified disorder of psychological development"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "M54",
+        "display": "Dorsalgia"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Z00",
+        "display": "Encounter for general examination without complaint, suspected or reported diagnosis"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "R55",
+        "display": "Syncope and collapse"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "G47",
+        "display": "Sleep disorders"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "T78",
+        "display": "Adverse effects, not elsewhere classified"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "R57",
+        "display": "Shock, not elsewhere classified"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "I95",
+        "display": "Hypotension"
+      },
+      {
+        "system": "HCPCS",
+        "code": "T1027",
+        "display": "Family training and counseling for child development, per 15 minutes"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "R21",
+        "display": "Rash and other nonspecific skin eruption"
+      },
+      {
+        "system": "HCPCS",
+        "code": "S9343",
+        "display": "Home therapy; enteral nutrition via bolus; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment (enteral formula and nursing visits coded separately), per diem"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "L21",
+        "display": "Seborrheic dermatitis"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F50",
+        "display": "Eating disorders"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "K12",
+        "display": "Stomatitis and related lesions"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "E66",
+        "display": "Overweight and obesity"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "triamcinolone",
+        "display": "triamcinolone"
+      },
+      {
+        "system": "ICD10PCS",
+        "code": "Z",
+        "display": "Z"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "L04",
+        "display": "Acute lymphadenitis"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "Q53",
+        "display": "Undescended and ectopic testicle"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "zinc 35",
+        "display": "zinc 35"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "J35",
+        "display": "Chronic diseases of tonsils and adenoids"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "H92",
+        "display": "Otalgia and effusion of ear"
+      },
+      {
+        "system": "RXNORM-FREETEXT",
+        "code": "fluocinolone",
+        "display": "fluocinolone"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F89",
+        "display": "Unspecified disorder of psychological development"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "K90",
+        "display": "Intestinal malabsorption"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F89",
+        "display": "Unspecified disorder of psychological development"
+      },
+      {
+        "system": "timegap",
+        "code": "00-01-month",
+        "display": "00-01-month"
+      },
+      {
+        "system": "ICD10CM",
+        "code": "F89",
+        "display": "Unspecified disorder of psychological development"
+      }
+    ]
+  ],
+  "history": [
+    {
+      "code": "81",
+      "system": "age",
+      "display": "81"
+    },
+    {
+      "code": "3021F",
+      "system": "CPT4",
+      "display": "Left ventricular ejection fraction (LVEF) less than 40% or documentation of moderately or severely depressed left ventricular systolic function (CAD, HF)"
+    },
+    {
+      "code": "I50.89",
+      "system": "ICD10CM",
+      "display": "Other heart failure"
+    },
+    {
+      "code": "R94.4",
+      "system": "ICD10CM",
+      "display": "Abnormal results of kidney function studies"
+    },
+    {
+      "code": "E87.6",
+      "system": "ICD10CM",
+      "display": "Hypokalemia"
+    },
+    {
+      "code": "551546933",
+      "system": "NDC",
+      "display": "dapagliflozin 10mg/1 ORAL TABLET, FILM COATED"
+    },
+    {
+      "code": "00-01-month",
+      "system": "timegap",
+      "display": "00-01-month"
+    },
+    {
+      "code": "68788788308",
+      "system": "NDC",
+      "display": "carvedilol 6.25 MG Oral Tablet"
+    },
+    {
+      "code": "00228239096",
+      "system": "NDC",
+      "display": "Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet"
+    },
+    {
+      "code": "03-06-month",
+      "system": "timegap",
+      "display": "03-06-month"
+    },
+    {
+      "code": "006158394",
+      "system": "NDC",
+      "display": "bumetanide 2mg/1 ORAL TABLET"
+    },
+    {
+      "code": "03-06-month",
+      "system": "timegap",
+      "display": "03-06-month"
+    },
+    {
+      "code": "70756081430",
+      "system": "NDC",
+      "display": "hydrochlorothiazide 25 MG / olmesartan medoxomil 40 MG Oral Tablet"
+    },
+    {
+      "code": "female",
+      "system": "gender",
+      "display": "female"
+    }
+  ]
+}
