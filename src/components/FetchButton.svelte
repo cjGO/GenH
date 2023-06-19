@@ -14,8 +14,11 @@ function addItem(data) {
   predictArray = [...predictArray, data];
 }
 
+let errorMessage = '';
+
 	// Loading state for the button
 	let loading = false;
+	errorMessage = '';
 	const apiKey = import.meta.env.VITE_API_KEY;
 	// This function will be called when the button is clicked
 	async function fetchData() {
@@ -105,30 +108,26 @@ function addItem(data) {
 			inference_temperature: inferenceTemperature
 		});
 
-		try {
-			const response = await fetch(url, {
-				method: 'POST',
-				headers: headers,
-				body: body
-			});
+    try {
+      const response = await fetch(url, {
+        method: 'POST',
+        headers: headers,
+        body: body
+      });
 			if (response.ok) {
-				// get the response body
-				const data = await response.json();
-				// Update the store with the new data
-				gridStore.update((grids) => [...grids, data]);
-				addItem(data)
-        console.log('fetch successful!')
-        console.log(predictArray)
-
-			} else {
-				console.error('HTTP-Error: ' + response.status);
-			}
-		} catch (error) {
-			console.error(error);
-		}
-
-		loading = false; // Set loading state to false after the fetch is completed
-	}
+    const data = await response.json();
+    gridStore.update((grids) => [...grids, data]);
+    addItem(data)
+    console.log('fetch successful!')
+    console.log(predictArray)
+  } else {
+		errorMessage = `Check console : HTTP-Error: ${response.status} (${response.statusText})`;
+  }
+} catch (error) {
+	errorMessage = error.message;
+  }
+    loading = false;
+  }
 </script>
 
 <button on:click={fetchData} disabled={loading}>
@@ -138,3 +137,15 @@ function addItem(data) {
 		Fetch Data
 	{/if}
 </button>
+
+{#if errorMessage}
+	<p class="error">{errorMessage}</p>
+{/if}
+
+
+<style>
+	.error {
+		color: red;
+	}
+	</style>
+	
