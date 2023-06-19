@@ -9,6 +9,7 @@
 	export let inferenceTemperature;
   export let predictArray;
 
+	// JS spread operator to add items to array
 function addItem(data) {
   predictArray = [...predictArray, data];
 }

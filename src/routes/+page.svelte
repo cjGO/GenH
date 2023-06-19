@@ -1,14 +1,11 @@
 <script>
-	import Slider from '../components/+Slider.svelte';
-	import Grid from '../components/+Grid.svelte';
-	import FetchButton from '../components/+FetchButton.svelte';
+	import Slider from '../components/Slider.svelte';
+	import Grid from '../components/Grid.svelte';
+	import FetchButton from '../components/FetchButton.svelte';
 	import ColorLegend from '../components/ColorLegend.svelte';
-	import { derived, get } from 'svelte/store';
-	import { gridStore } from './store.js'; // path to your store file
 	import { onMount } from 'svelte';
-	import sample_data from './data.json'
-	import history from './history.json'
-	
+	import sample_data from './data.json';
+	import history from './history.json';
 
 	// Store the API calls
 	let predictArray = [];
@@ -37,13 +34,10 @@
 
 	onMount(() => {
 		windowWidth = window.innerWidth;
-
 		const handleResize = () => {
 			windowWidth = window.innerWidth;
 		};
-
 		window.addEventListener('resize', handleResize);
-
 		return () => {
 			window.removeEventListener('resize', handleResize);
 		};
@@ -98,7 +92,7 @@
 <button on:click={() => (predictArray = [])}>Empty Array</button>
 
 <h1>Predictions</h1>
-<p> Each row is a predicted (chronological) sequence of events given the patient history above... </p>
+<p>Each row is a predicted (chronological) sequence of events given the patient history above...</p>
 {#if predictArray.length > 0}
 	{#each predictArray as data, index (index)}
 		<Grid squares={data} {systemColorMap} {width} />
@@ -109,14 +103,20 @@
 
 <h1>todos</h1>
 <ul>
-	<li>Rank unique codes by frequency in list -> make mouse hover over each item in list sync with grids highlighting relevant squares</li>
+	<li>
+		Rank unique codes by frequency in list -> make mouse hover over each item in list sync with
+		grids highlighting relevant squares
+	</li>
 	<li>
 		add history/arguments above each prediction (in case history/arguments can be changed on the
 		fly)
 	</li>
 	<li>click a square to get taken to its webpage on athena or similar database</li>
 	<li>request updated api for seed</li>
-	<li> add search bar to look up squares based on regex and/or vector embeddings with similarity threshold</li>
+	<li>
+		add search bar to look up squares based on regex and/or vector embeddings with similarity
+		threshold
+	</li>
 </ul>
 
 <style>
